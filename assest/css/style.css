@@ -6,10 +6,18 @@
 body{
     font-family: 'Open Sans', sans-serif;
     width: 100%;
-
+    background-color: black ;
 }
 
 .logo-one{
     width: 2rem;
 }
 
+.carousel-inner{
+    height: 30rem;
+    
+}
+
+.info .card-text{
+    font-size: 0.8rem;
+}
