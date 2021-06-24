@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+  }
+
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+
+}
+
+.logo-one{
+    width: 2rem;
+}
+
